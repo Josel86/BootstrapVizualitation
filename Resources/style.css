@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+h2,
+h3 {
+    color: rgb(11, 173, 166);
+}
+
+p {
+    font-size: 14px;
+    font-family: 'Helvetica';
+    line-height: 25px;
+}
+
+.logo {
+    font-weight: bold;
+    background-color: rgb(11, 173, 166);
+    color: rgb(247, 250, 249);
+    border: 1px solid rgb(11, 173, 166);
+    font-size: 40px;
+    font-family: verdana;
+    padding: 15px;
+}
+
+.logoColor {
+    color: rgb(247, 250, 249);
+    background-color: rgb(11, 173, 166);
+}
+
+.navbar {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 15px;
+}
+
+.navbar li {
+    margin-right: 90px;
+    font-size: 16px;
+}
+
+.first image {
+    width: 20%;
+    float: left;
+    margin: 5px;
+}
+
+.text {
+    float: right;
+}
+
+.box {
+    padding: 10px;
+    background: white;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    align-content: center;
+}
+
+footer {
+    text-align: center;
+    background: rgb(102, 102, 102);
+    color: white;
+    bottom: 0;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: rgb(11, 173, 166);
+    width: 100%;
+}
+
+.imgTemp {
+    width: '80%';
+}
+
+.marco {
+    border: 2px solid rgb(11, 173, 166);
+}
